@@ -1,0 +1,12 @@
+{
+  "r.rterm.linux": "/home/rbyoung3/.local/bin/radian",
+  "r.bracketedPaste": true,
+  "r.alwaysUseActiveTerminal": true,
+  "r.plot.useHttpgd": true,
+  "r.lsp.diagnostics": true,
+  "r.sessionWatcher": true,
+  "[r]": {
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true
+  }
+}

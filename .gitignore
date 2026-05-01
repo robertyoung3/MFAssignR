@@ -34,3 +34,9 @@ vignettes/*.pdf
 
 # Shiny token, see https://shiny.rstudio.com/articles/shinyapps.html
 rsconnect/
+
+# User generated
+/user_data/
+/user_notebooks/
+/user_notes/
+/user_output/
