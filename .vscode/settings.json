@@ -1,10 +1,12 @@
 {
-  "r.rterm.linux": "/home/rbyoung3/.local/bin/radian",
-  "r.bracketedPaste": true,
+  "r.rterm.linux": "/usr/bin/R",
+  "r.rterm.option": ["--no-save", "--no-restore"],
+  "r.bracketedPaste": false,
   "r.alwaysUseActiveTerminal": false,
   "r.plot.useHttpgd": true,
   "r.lsp.diagnostics": true,
   "r.sessionWatcher": true,
+  "r.rmarkdown.knit.useBackgroundProcess": false,
   "[r]": {
     "editor.tabSize": 2,
     "editor.insertSpaces": true

@@ -4,7 +4,8 @@
   "ignored.packages": [
     "MFAssignR",
     "languageserver",
-    "httpgd"
+    "httpgd",
+    "IRkernel"
   ],
   "lockfile.sanitize": true,
   "package.dependency.fields": [

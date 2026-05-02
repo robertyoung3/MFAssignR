@@ -55,7 +55,6 @@ To allow ambiguity in the formula assignments there is the "Ambig" parameter whi
 
 MFAssignCHO is a simplified version of MFAssign used only to assign MF with CHO elements. MFAssignCHO runs faster than MFAssign and can be used for preliminary MF assignments prior to the selection of internal recalibration ions in conjunction with RecalList and Recal, which are described below. 
 
-
 Below is a table highlighting the features of the various forms of MFAssign, which were described above. 
 
 ### Table 1: Features of the MFAssign family of functions available in MFAssignR
